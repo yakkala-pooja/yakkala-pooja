@@ -1,78 +1,108 @@
-# 👋 Hi, I’m Pooja Yakkala (@yakkala-pooja)
+# Pooja Yakkala
 
-🎓 I'm a graduate student pursuing an **MS in Artificial Intelligence** at **Rochester Institute of Technology** (Class of 2026), with a strong foundation in AI and Data Science from my BTech at SR Gudlavalleru Engineering College.
-
-I’m passionate about:
-- Machine Learning, Deep Learning, and Generative AI
-- Computer Vision & NLP (especially medical imaging and VQA)
-- Building robust, interpretable AI systems
-- Cross-domain and few-shot learning for satellite data
-- MLOps and scalable AI pipelines
-
-Currently learning:
-- Advanced AI robustness techniques
-- Scalable model deployment using Vertex AI
-- Multimodal learning for real-world tasks
-
-Looking to collaborate on:
-- Research or open-source projects in ML/CV/NLP
-- Projects applying AI in healthcare or environmental monitoring
-- Exploratory work in neuro-symbolic AI or multimodal transformers
-
-📫 How to reach me:
-- 📧 py9363@rit.edu
-- 📍 Rochester, NY
-- 🔗 [LinkedIn](https://www.linkedin.com/in/pooja-yakkala)
-- 💻 [GitHub](https://github.com/yakkala-pooja)
-
-😄 Pronouns: She/Her  
-⚡ Fun fact: I’m obsessed with stress-testing models—whether it’s causal patch injection or conceptual fragility metrics, I like to break models to make them better. 
+**Location:** Rochester, NY 14623  
+**Email:** py9363@rit.edu  
+**Phone:** 585-503-4522  
+**LinkedIn:** [linkedin.com/in/pooja-yakkala](https://linkedin.com/in/pooja-yakkala)  
+**GitHub:** [github.com/yakkala-pooja](https://github.com/yakkala-pooja)  
 
 ---
 
-## Skills & Tools
+## 🎓 Education
 
-**Languages:** Python, R, SQL, Java, C, C++, JavaScript  
-**ML/AI:** Transformers (BERT, ViT), GANs, SHAP/LIME, Reinforcement Learning, Bayesian Optimization  
-**Vision & NLP:** YOLO, VQA, RAG, NER, Image Segmentation, Grad-CAM  
-**MLOps & Cloud:** Vertex AI, AWS, Docker, MLflow, CI/CD, A/B Testing  
-**Analytics & Tools:** Tableau, Power BI, MySQL, MongoDB, PyTorch, TensorFlow, Flask, OpenCV
+**Rochester Institute of Technology** — *MS in Artificial Intelligence*  
+_Aug 2024 – Aug 2026_  
+- GPA: 3.94 / 4.0  
+- Coursework: Fundamentals of AI, Mathematical Methods for AI, Fundamentals of Machine Learning
 
----
-
-## Notable Projects
-
-**Stress-Testing CNNs Using Causal Concept Subversion**  
-*Robust AI | Grad-CAM | CLIP | PyTorch*  
-Tested model fragility by injecting semantic OOD patches into causal regions, revealing 40% drop in ResNet-18 accuracy and proposing a new fragility metric (CFI).
-
-**Cross-Domain Few-Shot Learning for Satellite Imagery**  
-*Contrastive Learning | ViT | CD-FSL*  
-Built a domain adaptation and contrastive learning pipeline that minimized domain shift in urban vs. rural satellite image classification.
-
-**Multimodal Transformer for Heart Failure Risk Prediction**  
-*SHAP | Attention | Tabular + Time-Series*  
-Integrated time-series vitals and static features to outperform traditional models with an F1-score boost from 0.70 to 0.88.
-
-**Search Desk – A Big Data Search Engine**  
-*Flask | OCR | NLP | BERT*  
-Created a cross-format document search engine with OCR and BERT-based summarization, reducing query response time by 75%.
+**SR Gudlavalleru Engineering College** — *BTech in Artificial Intelligence and Data Science*  
+_Oct 2020 – Apr 2024_  
+- GPA: 3.76 / 4.0  
+- Minor: Electronics and Communication Engineering  
 
 ---
 
-## 📚 Publications
+## 💼 Experience
 
-- **IEEE:** *Design and Implementation of a Chatbot for Automated Legal Assistance* (2024)  
-- *Efficient Data Searching with Search Desk* (2023)  
-- *Water Flow Management for Agriculture* (2023)  
-- *Fuel Recommendation via Neural Networks* (2022)
+**Data Science and Machine Learning Intern**  
+*Gilbert Research Center, Coimbatore, India*  
+_Apr 2024 – Aug 2024_  
+- Developed deep learning models (CNNs) for X-ray abnormality detection with 92% accuracy  
+- Reduced false positives by 15% compared to baseline models  
+- Applied regression and dimensionality reduction techniques to optimize efficiency (20% gain)
+
+---
+
+## 🔬 Projects
+
+### Retrieval-Augmented Neural Decoder for EEG-Based BCI Systems  
+_May 2025 – Present_  
+- Built a TCN-based neural decoder for motor imagery classification using EEG data  
+- Integrated FAISS-based retrieval for brain-state similarity and robust predictions  
+- Designed real-time visualization and simulated BCI interface in Streamlit  
+- Investigated few-shot learning for subject-independent generalization
+
+### Stress-Testing CNNs via Causal Concept Subversion (CCS)  
+_Jan 2025 – May 2025_  
+- Designed a framework to stress-test CNNs by injecting adversarial patches in causal regions  
+- Proposed the Conceptual Fragility Index (CFI) for quantifying semantic vulnerability  
+- Achieved 40% and 25% accuracy degradation in ResNet-18 and EfficientNet-B0 respectively
+
+### Cross-Domain Few-Shot Learning for Satellite Imagery  
+_Jan 2025 – May 2025_  
+- Used SimCLR + AFR + ViT-based distillation to generalize across urban/rural domains  
+- Reduced model parameters by 45% via pruning with minimal accuracy loss  
+- Improved accuracy on rural test sets by 12% compared to baseline CD-FSL models
+
+### Multimodal Transformer for Heart Failure Prediction  
+_Nov 2024 – Dec 2024_  
+- Jointly modeled time-series vitals and static EHR data with transformer fusion  
+- Boosted F1-score from 0.70 to 0.88 and precision to 0.91  
+- Used SHAP and LIME to identify key clinical risk indicators
+
+### RAG-Based Grant Recommendation for Nonprofits  
+_Nov 2024 – Dec 2024_  
+- Built a scalable RAG system using OpenAI embeddings and FAISS for semantic retrieval  
+- Improved Top-5 accuracy by 28% via prompt tuning and reranking  
+- Deployed with Streamlit (frontend) + Flask (backend) for real-time recommendations
+
+### Legal Minds V1 — Legal Document Retrieval System  
+_Aug 2023 – Jan 2024_  
+- Combined BM25 and BERT for hybrid legal search and classification  
+- Improved accuracy by 15% and reduced average response time by 20%  
+- Built legal NLP pipeline with NER, clause extraction, and topic modeling
+
+### Search Desk — Big Data Document Search Engine  
+_Feb 2023 – Jul 2023_  
+- Indexed and retrieved documents (PDF, TXT, JPG) with OCR and BERT embeddings  
+- Reduced latency from 2s to 500ms using optimized similarity and summarization methods  
+- Built end-to-end full-stack engine using Flask and NLP modules
+
+---
+
+## 🛠 Skills
+
+**Languages:** Python, R, SQL, Java, C, C++, JavaScript, TypeScript, React  
+**ML/AI:** Deep Learning, Transformers (LLMs, GPT), Generative AI, LangChain, CUDA, Hugging Face  
+**Vision/NLP:** CLIP, YOLO, RAG, VQA, Image Segmentation  
+**Cloud/MLOps:** Vertex AI, AWS, Docker, MLflow, CI/CD, A/B Testing, Model Deployment  
+**Analytics:** EDA, ETL, Data Warehousing, Predictive Modeling, Data Pipelines  
+**Tools:** PyTorch, TensorFlow, Scikit-learn, Keras, Flask, OpenCV, Power BI, Tableau, Git, MongoDB, MySQL  
+
+---
+
+## 📄 Publications (IEEE)
+
+- **Design and Implementation of a Chatbot for Automated Legal Assistance using NLP and ML** — *Feb 2024*  
+- **Efficient Data Searching and Management with Search Desk** — *Nov 2023*  
+- **An Automatic Water Flow Management System for Agriculture** — *Mar 2023*  
+- **Personalized Fuel Assistance Recommendation System using ANN** — *Dec 2022*
 
 ---
 
 ## 📜 Certifications
 
-- NVIDIA: Generative AI with Diffusion Models  
-- Amazon ML Summer School 2023  
-- Cisco: Programming Essentials in Python
+- NVIDIA: Fundamentals of Accelerated Computing with CUDA Python  
+- NVIDIA: Generative AI for Diffusion Models  
+- Amazon Machine Learning Summer School — *2023*
 
-Thanks for visiting my profile! Let's connect and build something impactful.
