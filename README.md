@@ -1,124 +1,103 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20There!%20I’m%20Pooja%20Yakkala%20🚀&height=100&section=header"/>
-</p>
-
-<h1 align="center">MS in Artificial Intelligence @ RIT | Researcher | ML & Multimodal Enthusiast 🧠</h1>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/pooja-yakkala/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" alt="LinkedIn"/>
-</a>
-<a href="mailto:py9363@rit.edu">
-  <img height="50" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"/>
-</a>
-<a href="https://github.com/yakkala-pooja">
-  <img height="50" src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub"/>
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Pooja+Yakkala!;AI+Researcher+%7C+Model+Robustness+Nerd+%7C+Explorer" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧠 About Me
+### 👋 Hi, I’m Pooja Yakkala (@yakkala-pooja)
 
-```yaml
-name: Pooja Yakkala
-location: Rochester, New York
-background:
-  - Master's in Artificial Intelligence (RIT)
-  - BTech in AI & Data Science (India)
-research_focus:
-  - EEG Neural Decoding
-  - Multimodal Transformers
-  - Robust AI and Explainability
-currently:
-  - Developing real-time BCI systems
-  - Stress-testing deep neural networks
-  - Deploying ML pipelines on Vertex AI
-interests:
-  - Brain-Computer Interfaces
-  - Computer Vision
-  - Generative AI for Protein & Medical Design
-fun_fact: >
-  I break models on purpose — and then build them back stronger 💪
-```
+🎓 I'm a graduate student pursuing an **MS in Artificial Intelligence** at **Rochester Institute of Technology** (Class of 2026), with a strong foundation in AI and Data Science from my BTech at SR Gudlavalleru Engineering College.
 
 ---
 
-## 🔬 My Research & Projects
-
-- 🧠 **EEG-Based BCI Decoder**  
-  Temporal convolution + FAISS retrieval + real-time Streamlit interface for decoding brain states.
-
-- 🛡️ **Robustness Testing via Concept Subversion**  
-  Created a Conceptual Fragility Index by perturbing causally salient regions with CLIP-driven adversarial patches.
-
-- 🌍 **Cross-Domain Satellite Image Classifier**  
-  SimCLR + Adaptive Feature Recalibration + distilled ViT model to generalize across rural/urban imagery.
-
-- ❤️ **Multimodal Health Risk Prediction**  
-  Transformer model combining time-series vitals and EHR data with SHAP/LIME explanations for clinicians.
-
-- 🧾 **Legal Minds Search Engine**  
-  Hybrid BM25 + BERT legal document engine with clause-level semantic retrieval and NER.
+### 💡 I’m passionate about:
+- Machine Learning, Deep Learning, and Generative AI
+- Computer Vision & NLP (especially medical imaging and VQA)
+- Building robust, interpretable AI systems
+- Cross-domain and few-shot learning for satellite data
+- MLOps and scalable AI pipelines
 
 ---
 
-## 🛠 Tech Stack
+### 🚀 Currently learning:
+- Advanced AI robustness techniques (e.g., adversarial attacks, OOD detection)
+- Scalable model deployment using Vertex AI
+- Multimodal learning and neuro-symbolic AI for real-world reasoning
+
+---
+
+### 🤝 Looking to collaborate on:
+- Research or open-source projects in ML/CV/NLP
+- Projects applying AI in healthcare or environmental monitoring
+- Exploratory work in neuro-symbolic AI or multimodal transformers
+
+Pronouns: **She/Her**  
+⚡ Fun fact: I’m obsessed with stress-testing models—whether it’s causal patch injection or conceptual fragility metrics, I like to break models to make them better.
+
+---
+
+## 🧠 Skills & Tools
+
+**Languages:** Python, R, SQL, Java, C, C++, JavaScript  
+**ML/AI:** Transformers (BERT, ViT, LLaMA, SAM), GANs, SHAP, LIME, RL, XGBoost, Bayesian Optimization, AutoML  
+**Computer Vision & NLP:** YOLO, Detectron2, VQA, RAG, NER, Image Segmentation, OCR, Grad-CAM, HuggingFace  
+**MLOps & Cloud:** Vertex AI, AWS, Docker, Kubernetes, MLflow, CI/CD, Streamlit, A/B Testing  
+**Analytics & Tools:** Tableau, Power BI, MySQL, MongoDB, Apache Spark, DVC  
+**Frameworks & Libraries:** PyTorch, TensorFlow, Keras, OpenCV, Scikit-learn, Flask, FastAPI, LangChain
+
+---
+
+## 📁 Featured Projects
+
+- **Robust Model Evaluation Toolkit** 🛡️  
+  Stress-tested AI models with adversarial (FGSM, PGD), noisy (Gaussian, salt & pepper), and OOD samples across modalities. Built a hybrid robustness benchmark for real-world evaluation.
+
+- **Retrieval-Augmented Neural Decoder for EEG-Based BCI Systems** 🧠  
+  Integrated FAISS vector retrieval with TCN encoders to classify motor imagery patterns. Enabled real-time semantic retrieval of brain states using a Streamlit dashboard.
+
+- **Multimodal Web Agent for Autonomous Web Interaction** 🌐  
+  Combined CLIP-based visual grounding and LLaMA-2 action planning to automate real-world tasks like bookings and form submissions.
+
+- **Heart Failure Prediction using Transformers** ❤️  
+  Developed a multimodal risk prediction model for heart failure. Compared SHAP vs. LIME interpretability and visualized attention to improve clinical transparency.
+
+- **Satellite Land Cover Classification via Few-Shot Learning** 🛰️  
+  Implemented domain-adaptive few-shot learning using meta-learning and prototypical networks to classify OOD satellite imagery.
+
+---
+
+## 📜 Certifications
+
+- DeepLearning.AI Generative AI with LLMs
+- AWS Certified Cloud Practitioner (2024)
+- MLOps Fundamentals (Google Cloud Vertex AI)
+- Fast.ai Practical Deep Learning for Coders
+- HarvardX: Data Science Professional Certificate
+
+---
+
+## 🎯 Goals for 2025
+
+- Build 20+ robust AI projects across modalities  
+- Contribute to 3 open-source AI toolkits  
+- Publish research on model robustness or few-shot learning  
+- Master Vertex AI, LangChain, and neuro-symbolic reasoning
+
+---
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Thanks+for+scrolling!+Let's+connect+%F0%9F%91%8B" alt="Thank you" />
 </p>
 
----
-
-## 📈 Quick Stats
-
-- 🔬 Published 4 IEEE papers in AI & NLP
-- 🎓 2× Academic Excellence Award recipient
-- 💼 Worked on research + industry projects in India & the US
-- 📊 Developed 15+ AI/ML prototypes, including multimodal, cloud, and real-time systems
-
----
-
-## 🌟 2025 Goals
-
-```markdown
-🧪 Contribute to impactful research in neural decoding and healthcare AI  
-🧠 Improve robustness and interpretability of AI models  
-📢 Publish 2+ top-tier conference papers  
-🎯 Complete 3 real-world deployments of my research  
-```
-
----
-
-<h2 align="center">Let’s Build Something Awesome Together</h2>
-
 <p align="center">
-<a href="https://www.linkedin.com/in/pooja-yakkala/">
+<a href="https://www.linkedin.com/in/yakkala-pooja/">
   <img height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;
-<a href="mailto:py9363@rit.edu">
-  <img height="40" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email"/>
-</a>
-&nbsp;&nbsp;
 <a href="https://github.com/yakkala-pooja">
   <img height="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub"/>
 </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<a href="mailto:pyakkala@mail.rit.edu">
+  <img height="40" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email"/>
+</a>
 </p>
