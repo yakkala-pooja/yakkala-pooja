@@ -1,108 +1,124 @@
-# Pooja Yakkala
 
-**Location:** Rochester, NY 14623  
-**Email:** py9363@rit.edu  
-**Phone:** 585-503-4522  
-**LinkedIn:** [linkedin.com/in/pooja-yakkala](https://linkedin.com/in/pooja-yakkala)  
-**GitHub:** [github.com/yakkala-pooja](https://github.com/yakkala-pooja)  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20There!%20I’m%20Pooja%20Yakkala%20🚀&height=100&section=header"/>
+</p>
 
----
+<h1 align="center">MS in Artificial Intelligence @ RIT | Researcher | ML & Multimodal Enthusiast 🧠</h1>
 
-## 🎓 Education
-
-**Rochester Institute of Technology** — *MS in Artificial Intelligence*  
-_Aug 2024 – Aug 2026_  
-- GPA: 3.94 / 4.0  
-- Coursework: Fundamentals of AI, Mathematical Methods for AI, Fundamentals of Machine Learning
-
-**SR Gudlavalleru Engineering College** — *BTech in Artificial Intelligence and Data Science*  
-_Oct 2020 – Apr 2024_  
-- GPA: 3.76 / 4.0  
-- Minor: Electronics and Communication Engineering  
+<p align="center">
+<a href="https://www.linkedin.com/in/pooja-yakkala/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" alt="LinkedIn"/>
+</a>
+<a href="mailto:py9363@rit.edu">
+  <img height="50" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"/>
+</a>
+<a href="https://github.com/yakkala-pooja">
+  <img height="50" src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub"/>
+</a>
+</p>
 
 ---
 
-## 💼 Experience
+## 🧠 About Me
 
-**Data Science and Machine Learning Intern**  
-*Gilbert Research Center, Coimbatore, India*  
-_Apr 2024 – Aug 2024_  
-- Developed deep learning models (CNNs) for X-ray abnormality detection with 92% accuracy  
-- Reduced false positives by 15% compared to baseline models  
-- Applied regression and dimensionality reduction techniques to optimize efficiency (20% gain)
-
----
-
-## 🔬 Projects
-
-### Retrieval-Augmented Neural Decoder for EEG-Based BCI Systems  
-_May 2025 – Present_  
-- Built a TCN-based neural decoder for motor imagery classification using EEG data  
-- Integrated FAISS-based retrieval for brain-state similarity and robust predictions  
-- Designed real-time visualization and simulated BCI interface in Streamlit  
-- Investigated few-shot learning for subject-independent generalization
-
-### Stress-Testing CNNs via Causal Concept Subversion (CCS)  
-_Jan 2025 – May 2025_  
-- Designed a framework to stress-test CNNs by injecting adversarial patches in causal regions  
-- Proposed the Conceptual Fragility Index (CFI) for quantifying semantic vulnerability  
-- Achieved 40% and 25% accuracy degradation in ResNet-18 and EfficientNet-B0 respectively
-
-### Cross-Domain Few-Shot Learning for Satellite Imagery  
-_Jan 2025 – May 2025_  
-- Used SimCLR + AFR + ViT-based distillation to generalize across urban/rural domains  
-- Reduced model parameters by 45% via pruning with minimal accuracy loss  
-- Improved accuracy on rural test sets by 12% compared to baseline CD-FSL models
-
-### Multimodal Transformer for Heart Failure Prediction  
-_Nov 2024 – Dec 2024_  
-- Jointly modeled time-series vitals and static EHR data with transformer fusion  
-- Boosted F1-score from 0.70 to 0.88 and precision to 0.91  
-- Used SHAP and LIME to identify key clinical risk indicators
-
-### RAG-Based Grant Recommendation for Nonprofits  
-_Nov 2024 – Dec 2024_  
-- Built a scalable RAG system using OpenAI embeddings and FAISS for semantic retrieval  
-- Improved Top-5 accuracy by 28% via prompt tuning and reranking  
-- Deployed with Streamlit (frontend) + Flask (backend) for real-time recommendations
-
-### Legal Minds V1 — Legal Document Retrieval System  
-_Aug 2023 – Jan 2024_  
-- Combined BM25 and BERT for hybrid legal search and classification  
-- Improved accuracy by 15% and reduced average response time by 20%  
-- Built legal NLP pipeline with NER, clause extraction, and topic modeling
-
-### Search Desk — Big Data Document Search Engine  
-_Feb 2023 – Jul 2023_  
-- Indexed and retrieved documents (PDF, TXT, JPG) with OCR and BERT embeddings  
-- Reduced latency from 2s to 500ms using optimized similarity and summarization methods  
-- Built end-to-end full-stack engine using Flask and NLP modules
+```yaml
+name: Pooja Yakkala
+location: Rochester, New York
+background:
+  - Master's in Artificial Intelligence (RIT)
+  - BTech in AI & Data Science (India)
+research_focus:
+  - EEG Neural Decoding
+  - Multimodal Transformers
+  - Robust AI and Explainability
+currently:
+  - Developing real-time BCI systems
+  - Stress-testing deep neural networks
+  - Deploying ML pipelines on Vertex AI
+interests:
+  - Brain-Computer Interfaces
+  - Computer Vision
+  - Generative AI for Protein & Medical Design
+fun_fact: >
+  I break models on purpose — and then build them back stronger 💪
+```
 
 ---
 
-## 🛠 Skills
+## 🔬 My Research & Projects
 
-**Languages:** Python, R, SQL, Java, C, C++, JavaScript, TypeScript, React  
-**ML/AI:** Deep Learning, Transformers (LLMs, GPT), Generative AI, LangChain, CUDA, Hugging Face  
-**Vision/NLP:** CLIP, YOLO, RAG, VQA, Image Segmentation  
-**Cloud/MLOps:** Vertex AI, AWS, Docker, MLflow, CI/CD, A/B Testing, Model Deployment  
-**Analytics:** EDA, ETL, Data Warehousing, Predictive Modeling, Data Pipelines  
-**Tools:** PyTorch, TensorFlow, Scikit-learn, Keras, Flask, OpenCV, Power BI, Tableau, Git, MongoDB, MySQL  
+- 🧠 **EEG-Based BCI Decoder**  
+  Temporal convolution + FAISS retrieval + real-time Streamlit interface for decoding brain states.
+
+- 🛡️ **Robustness Testing via Concept Subversion**  
+  Created a Conceptual Fragility Index by perturbing causally salient regions with CLIP-driven adversarial patches.
+
+- 🌍 **Cross-Domain Satellite Image Classifier**  
+  SimCLR + Adaptive Feature Recalibration + distilled ViT model to generalize across rural/urban imagery.
+
+- ❤️ **Multimodal Health Risk Prediction**  
+  Transformer model combining time-series vitals and EHR data with SHAP/LIME explanations for clinicians.
+
+- 🧾 **Legal Minds Search Engine**  
+  Hybrid BM25 + BERT legal document engine with clause-level semantic retrieval and NER.
 
 ---
 
-## 📄 Publications (IEEE)
+## 🛠 Tech Stack
 
-- **Design and Implementation of a Chatbot for Automated Legal Assistance using NLP and ML** — *Feb 2024*  
-- **Efficient Data Searching and Management with Search Desk** — *Nov 2023*  
-- **An Automatic Water Flow Management System for Agriculture** — *Mar 2023*  
-- **Personalized Fuel Assistance Recommendation System using ANN** — *Dec 2022*
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
+</p>
 
 ---
 
-## 📜 Certifications
+## 📈 Quick Stats
 
-- NVIDIA: Fundamentals of Accelerated Computing with CUDA Python  
-- NVIDIA: Generative AI for Diffusion Models  
-- Amazon Machine Learning Summer School — *2023*
+- 🔬 Published 4 IEEE papers in AI & NLP
+- 🎓 2× Academic Excellence Award recipient
+- 💼 Worked on research + industry projects in India & the US
+- 📊 Developed 15+ AI/ML prototypes, including multimodal, cloud, and real-time systems
 
+---
+
+## 🌟 2025 Goals
+
+```markdown
+🧪 Contribute to impactful research in neural decoding and healthcare AI  
+🧠 Improve robustness and interpretability of AI models  
+📢 Publish 2+ top-tier conference papers  
+🎯 Complete 3 real-world deployments of my research  
+```
+
+---
+
+<h2 align="center">Let’s Build Something Awesome Together</h2>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/pooja-yakkala/">
+  <img height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:py9363@rit.edu">
+  <img height="40" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/yakkala-pooja">
+  <img height="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub"/>
+</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
